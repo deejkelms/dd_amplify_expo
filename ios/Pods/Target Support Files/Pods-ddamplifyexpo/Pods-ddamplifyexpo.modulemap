@@ -1,0 +1,6 @@
+module Pods_ddamplifyexpo {
+  umbrella header "Pods-ddamplifyexpo-umbrella.h"
+
+  export *
+  module * { export * }
+}
